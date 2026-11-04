@@ -1,0 +1,6 @@
+{
+  "name": "Exploradores do Corpo Humano - 4.º Ano",
+  "description": "Plataforma educativa e interativa de Estudo do Meio para o 4.º ano com jogos, simulações animadas, desafios e quizzes sobre o corpo humano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
