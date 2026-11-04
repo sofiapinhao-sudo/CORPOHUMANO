@@ -482,7 +482,7 @@ export default function App() {
 
           <div className="flex items-center gap-4">
             <a
-              href="/public/assets/aistudio/Unidade_1_de43517a.pdf"
+              href="./assets/aistudio/Unidade_1_de43517a.pdf"
               target="_blank"
               rel="noreferrer"
               className="hover:text-slate-800 transition-colors inline-flex items-center gap-1 font-medium"
